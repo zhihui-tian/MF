@@ -10,10 +10,10 @@
 ## 2D Simulation Results
 ### Isotropic
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="materials/isotropic/var4.gif" width="225" />
-  <img src="materials/isotropic/var9.gif" width="225" />
-  <img src="materials/isotropic/var16.gif" width="225" />
-  <img src="materials/isotropic/var25.gif" width="225" />
+  <img src="materials/isotropic/var4.gif" width="200" />
+  <img src="materials/isotropic/var9.gif" width="200" />
+  <img src="materials/isotropic/var16.gif" width="200" />
+  <img src="materials/isotropic/var25.gif" width="200" />
 </div>
 
 <p align="middle">
