@@ -16,7 +16,7 @@
 </div>
 
 <p align="middle">
-    <em >From left to right: Gaussian Sampling with covariance 4,9,16,25.</em>
+    <em >From left to right: Gaussian Sampling with cov(x,y) 4,9,16,25.</em>
 </p>
 <br>
 
