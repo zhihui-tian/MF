@@ -23,10 +23,10 @@
 
 ### Anisotropic
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="materials/anisotropic/ims_id0_0.gif" width="225" />
-  <img src="materials/anisotropic/ims_id0_4.gif" width="225" />
-  <img src="materials/anisotropic/ims_id0_9.gif" width="225" />
-  <img src="materials/anisotropic/ims_id0_16.gif" width="225" />
+  <img src="materials/anisotropic/ims_id0_0.gif" width="200" />
+  <img src="materials/anisotropic/ims_id0_4.gif" width="200" />
+  <img src="materials/anisotropic/ims_id0_9.gif" width="200" />
+  <img src="materials/anisotropic/ims_id0_16.gif" width="200" />
 </div>
 
 <p align="middle">
