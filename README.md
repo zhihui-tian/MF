@@ -4,7 +4,7 @@
 
 ## Usage
 1. main.py shows 2D and 3D MF simulations examples
-2. the operations for mode filter are in functions.py
+2. functions.py have the operations for mode filter
 
 
 ## 2D Simulation Results
