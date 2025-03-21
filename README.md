@@ -17,7 +17,7 @@
 </div>
 
 <p align="middle">
-    <em >From left to right: Gaussian Sampling with cov(x,y) 4,9,16,25.</em>
+    <em >From left to right: Gaussian Sampling with variance 4,9,16,25.</em>
 </p>
 <br>
 
@@ -30,7 +30,7 @@
 </div>
 
 <p align="middle">
-    <em >From left to right: Gaussian Sampling with cov(x,y) 4,9,16,25.</em>
+    <em >From left to right: Gaussian Sampling with cov(x,y) 0,4,9,16.</em>
 </p>
 <br>
 
