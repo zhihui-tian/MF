@@ -16,7 +16,7 @@
 </div>
 
 <p align="middle">
-    <em >Gaussian sampling(left), reshaped Gaussian sampling(mid) and Uniform sampling (right).</em>
+    <em >From left to right: Gaussian Sampling with variance 4,9,16,25.</em>
 </p>
 <br>
 
