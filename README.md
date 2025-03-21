@@ -8,6 +8,8 @@
 
 
 ## 2D Simulation Results
+
+### Anisotropic
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="materials/ims_id0_0.gif" width="249" />
   <img src="materials/ims_id0_4.gif" width="249" />
