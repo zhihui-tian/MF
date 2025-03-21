@@ -10,10 +10,10 @@
 ## 2D Simulation Results
 ### Isotropic
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="materials/isotropic/var4.gif" width="249" />
-  <img src="materials/isotropic/var9.gif" width="249" />
-  <img src="materials/isotropic/var16.gif" width="249" />
-  <img src="materials/isotropic/var25.gif" width="249" />
+  <img src="materials/isotropic/var4.gif" width="245" />
+  <img src="materials/isotropic/var9.gif" width="245" />
+  <img src="materials/isotropic/var16.gif" width="245" />
+  <img src="materials/isotropic/var25.gif" width="245" />
 </div>
 
 <p align="middle">
@@ -23,10 +23,10 @@
 
 ### Anisotropic
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="materials/anisotropic/ims_id0_0.gif" width="249" />
-  <img src="materials/anisotropic/ims_id0_4.gif" width="249" />
-  <img src="materials/anisotropic/ims_id0_9.gif" width="249" />
-  <img src="materials/anisotropic/ims_id0_16.gif" width="249" />
+  <img src="materials/anisotropic/ims_id0_0.gif" width="245" />
+  <img src="materials/anisotropic/ims_id0_4.gif" width="245" />
+  <img src="materials/anisotropic/ims_id0_9.gif" width="245" />
+  <img src="materials/anisotropic/ims_id0_16.gif" width="245" />
 </div>
 
 <p align="middle">
