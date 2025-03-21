@@ -9,9 +9,10 @@
 
 ## 2D Simulation Results
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="docs/materials/gaussian.gif" width="260" />
-  <img src="docs/materials/reshaped_gaussian.gif" width="260" />
-  <img src="docs/materials/uniform.gif" width="260" />
+  <img src="docs/materials/ims_id0_0.gif" width="260" />
+  <img src="docs/materials/ims_id0_4.gif" width="260" />
+  <img src="docs/materials/ims_id0_9.gif" width="260" />
+  <img src="docs/materials/ims_id0_16.gif" width="260" />
 </div>
 
 <p align="middle">
